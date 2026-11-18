@@ -1,4 +1,4 @@
-# Hi, I'm Ashutosh Mishra
+# Hi, I am Ashutosh Mishra
 
 **Business Reporting & Automation Professional**
 
@@ -9,7 +9,7 @@ Based in Delhi NCR, India.
 ## What I work with
 
 - **Reporting and analysis:** Power BI, Power Query, business and operational data analysis
-- **Automation:** Power Automate, Power Apps, RPA production support
+- **Automation:** Power Automate, Power Apps, RPA production support, Blue Prism
 - **Learning now:** AI automation with n8n, RAG and MCP
 - **Web builds:** React, TypeScript, Vite
 
@@ -33,4 +33,4 @@ I am looking for Data Analyst and Reporting Analyst roles focused on business op
 
 - Portfolio: [ashutosh-m.vercel.app](https://ashutosh-m.vercel.app/)
 - X: [@_ashutosh1](https://x.com/_ashutosh1)
-- LinkedIn: <!-- add your LinkedIn URL here -->
+- LinkedIn: [(https://www.linkedin.com/in/ashutoshmishra7)
